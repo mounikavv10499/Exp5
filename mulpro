@@ -1,0 +1,6 @@
+#include<stio.h>
+void main()
+{
+int a=4,b=6,mul;
+mul=a*b;
+}
