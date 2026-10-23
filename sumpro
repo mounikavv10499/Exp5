@@ -1,0 +1,6 @@
+#include<stdiio.h>
+void main
+{
+int a=10,b=17,sum;
+sum=a+b;
+}
